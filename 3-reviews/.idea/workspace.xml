@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5020fc19-a8d9-4966-a43a-60c5884e26d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="626262ae-16aa-45c1-9131-d0604a135d76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-tours-intro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-tours-intro/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1mtfmSAPUySUxxZhzhTJ4nTNuHX" />
+  <component name="ProjectId" id="1oHcZJwAXUVoCL1ct8yo0bRYQaX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,13 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5020fc19-a8d9-4966-a43a-60c5884e26d0" name="Default Changelist" comment="" />
-      <created>1610317966763</created>
+      <changelist id="626262ae-16aa-45c1-9131-d0604a135d76" name="Default Changelist" comment="" />
+      <created>1612947010752</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610317966763</updated>
-      <workItem from="1610317967799" duration="1191000" />
-      <workItem from="1612941361886" duration="5322000" />
+      <updated>1612947010752</updated>
+      <workItem from="1612947011806" duration="5764000" />
     </task>
     <servers />
   </component>
@@ -70,6 +69,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
